@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4675239825516463848
+  m_GuidHigh: 5641487295144375458
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4646485366523262543
+      m_GuidHigh: 2480158974921000118
+    m_SerializedTextureGuid:
+      m_GuidLow: 15687331807782071721
+      m_GuidHigh: 4117085133742626985
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: RedSphere
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5343434403492017347
+      m_GuidHigh: 8306830867801740222
+    m_SerializedTextureGuid:
+      m_GuidLow: 14610952303440976854
+      m_GuidHigh: 14024926989452082874
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: BlueCube
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5470566120563014675
+      m_GuidHigh: 6998112283882576027
+    m_SerializedTextureGuid:
+      m_GuidLow: 3261737029490729932
+      m_GuidHigh: 15565835084266889242
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: GreenCapsule
+    m_Texture: {fileID: 0}
